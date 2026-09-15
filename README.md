@@ -2,9 +2,8 @@
 
 다운로드형 한글패처가 필요할 때 자료를 받고, SHA-256 검증 후 공용 캐시에서 재사용하는 배포 저장소입니다.
 
-## 패치 자료
-
-[패치 데이터 v3.1 릴리스](https://github.com/SakaYaroje/IEVR-Korean-Patch/releases/tag/1.0.0)
+## 패처 다운
+[한글패처 v1.0 릴리스](https://github.com/SakaYaroje/IEVR-Korean-Patch/releases/tag/1.0.0)
 
 - 자료 ZIP: 약 376MiB / 해제 후 약 385MiB, 1,455개 파일
 - 로그인 없이 다운로드할 수 있습니다.
