@@ -4,7 +4,7 @@
 
 ## 패치 자료
 
-[패치 데이터 v3.1 릴리스](https://github.com/SakaYaroje/IEVR-Korean-Patch/releases/tag/patch-data-v3.1-65a471b2a79f)
+[패치 데이터 v3.1 릴리스](https://github.com/SakaYaroje/IEVR-Korean-Patch/releases/tag/1.0.0)
 
 - 자료 ZIP: 약 376MiB / 해제 후 약 385MiB, 1,455개 파일
 - 로그인 없이 다운로드할 수 있습니다.
