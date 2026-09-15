@@ -1,6 +1,5 @@
 # 빅토리 로드 한글패처 · 다운로드 자료
 
-다운로드형 한글패처가 필요할 때 자료를 받고, SHA-256 검증 후 공용 캐시에서 재사용하는 배포 저장소입니다.
 
 ## 패처 다운
 [한글패처 v1.0 릴리스](https://github.com/SakaYaroje/IEVR-Korean-Patch/releases/tag/1.0.0)
