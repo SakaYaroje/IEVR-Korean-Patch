@@ -1,5 +1,18 @@
 # 빅토리 로드 한글패처 · 다운로드 자료
 
+## 2.0 공개 베타
+
+[한글패처 2.0 beta.6 다운로드](https://github.com/SakaYaroje/IEVR-Korean-Patch/releases/tag/2.0.0-beta.6)
+
+게임에서 **한국어를 별도로 선택**해 텍스트와 한글 이미지를 사용하는 Windows 64비트·Steam용 베타입니다.
+
+1. 릴리스 ZIP을 새 폴더에 풀고 `IEVRKoreanPatcher2Beta.exe`를 실행하세요.
+2. 게임 폴더를 확인한 뒤 **자료 받고 확인**을 누르세요. 받은 자료는 다음 실행부터 검증해 재사용합니다.
+3. 게임을 종료하고 **한국어 추가**를 누른 뒤, 게임 언어 설정에서 **한국어**를 선택하세요.
+
+기존 1.x 한글패치 사용자는 해당 패처의 백업·복원으로 원래 상태를 복원한 뒤 적용하세요. 사용설명서는 ZIP에 포함되어 있습니다.
+
+
 
 ## 패처 다운
 [한글패처 v1.0 릴리스](https://github.com/SakaYaroje/IEVR-Korean-Patch/releases/tag/1.0.0)
